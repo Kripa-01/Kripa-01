@@ -68,9 +68,7 @@ Machine learning–powered chatbot with Python and NLP.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kripa-01&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kripa-01&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
