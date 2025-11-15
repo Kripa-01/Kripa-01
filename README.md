@@ -75,9 +75,8 @@ Machine learning–powered chatbot with Python and NLP.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://www.linkedin.com/in/kripa-shaji-0085b8238"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="kripashaji333@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
