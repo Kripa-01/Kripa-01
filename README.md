@@ -26,7 +26,7 @@
 
 ### **Frameworks & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,fastapi" />
 </p>
 
 ### **Frontend**
