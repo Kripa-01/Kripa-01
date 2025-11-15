@@ -36,7 +36,7 @@
 
 ### **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,aws,azure" />
 </p>
 
 ---
